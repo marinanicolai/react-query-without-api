@@ -18,6 +18,7 @@ const rows = [
   createData("Snorlax", 6.11, 1014),
   createData("Lucario", 3.11, 119),
 ];
+console.log(rows);
 
 export default function App() {
   return (
